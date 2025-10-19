@@ -382,7 +382,7 @@ background-image:  url('../assets/images/hero-background.jpg');
 }
 
 h1, h2 {
-    color: var(--primary-red);
+    color: var(white);
     text-align: center;
     margin-bottom: 30px;
     font-weight: 600;
@@ -1224,4 +1224,5 @@ body {
     display: flex;
     justify-content: flex-start; /* Aligns items to the left */
     align-items: center;         /* Vertically centers items (optional but good) */
+
 }
